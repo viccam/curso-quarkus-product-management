@@ -1,5 +1,13 @@
-# code-with-quarkus
+# curso-quarkus-product-management
 
+Resumen:
+ En este proyecto se aprende:
+
+ * a conectar a base de datos,
+ * Se aplica patron builder para creacion de entidad
+ * Se realiza inyección de dependencias
+
+ 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
